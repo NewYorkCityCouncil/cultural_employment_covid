@@ -42,7 +42,7 @@ ggplot(data = arts,
             color = "#FFFFFF", size = 6) +
   xlab("") + ylab("Jobs") + 
   labs(caption = "NYS Department of Labor - Labor Statistics for the New York City Region") +
-  ggtitle("Arts Employment During Covid", 
+  ggtitle("Figure 3.\n\nArts Employment During Covid", 
           st) +
   theme_ipsum(axis_title_just = "mc", 
              base_size = 10,
@@ -86,7 +86,7 @@ ggplot(data = all,
             color = "#FFFFFF", size = 6) +
   xlab("") + ylab("Jobs") + 
   labs(caption = "NYS Department of Labor - Labor Statistics for the New York City Region") +
-  ggtitle("NYC Employment During Covid", 
+  ggtitle("Figure 2.\n\nNYC Employment During Covid", 
           st) +
   theme_ipsum(axis_title_just = "mc", 
               base_size = 10,
@@ -129,7 +129,7 @@ ggplot(data = share_diff,
   expand_limits(y=c(-1,0.3)) +
   coord_flip() +
   xlab("") + ylab('Percent Change') +
-  ggtitle('Share Loss/Gain of Employment for Select Industries During Covid', 
+  ggtitle('Figure 1.\n\nShare Loss/Gain of Employment for Select Industries During Covid', 
           'July 2019 vs July 2020') +
   labs(caption = "NYS Department of Labor - Labor Statistics for the New York City Region") +
   geom_text(data = share_diff[share_diff$diff_share>0,],
