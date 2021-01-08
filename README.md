@@ -1,5 +1,5 @@
 ## Cultural Employment During Covid
-Data analysis and visuals for NYCC 10.22.20 ['Oversight - The Impact of COVID-19 on NYC Artists and the Perspective of Working Artists During the Pandemic.'](https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863&Options=info|&Search=) hearing.
+Data analysis and visuals for NYCC 1.19.20 ['Oversight - The Impact of COVID-19 on NYC Artists and the Perspective of Working Artists During the Pandemic.'](https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=828715&GUID=1319B428-1919-4D00-964A-B0BEA06D7863&Options=info|&Search=) hearing.
 
 ***  
 
