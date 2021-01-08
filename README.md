@@ -4,11 +4,12 @@ Data analysis and visuals for NYCC 1.19.20 ['Oversight - The Impact of COVID-19 
 ***  
 
 ### Sources 
-- [Current Employment Statistics - NYS Department of Labor](https://www.labor.ny.gov/stats/nyc/NYChist.xls)
-- [NYS Department of Labor Weekly UI Claims Reports](https://labor.ny.gov/stats/weekly-ui-claims-report.shtm)
+[Current Employment Statistics - NYS Department of Labor](https://www.labor.ny.gov/stats/nyc/NYChist.xls)
+
+[NYS Department of Labor Weekly UI Claims Reports](https://labor.ny.gov/stats/weekly-ui-claims-report.shtm)
 
 
-### Datasets 
+### Visuals 
 
 [Number of Jobs in Arts Sector in NYC (2019 vs 2020)](https://github.com/NewYorkCityCouncil/datavis/blob/gh-pages/templates/linechartmulti24/artists_employment_nyc_2019_2020.csv)
 
